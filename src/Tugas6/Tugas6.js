@@ -1,10 +1,10 @@
 import React from "react";
 
-function TugasPertama(props) {
+function Tugas6(props) {
   return (
     <div className="box">
       <h1 className="title">Hi, Saya {props.name}</h1>
-      <hr></hr>
+      <hr />
       <p className="paragraph">
         Saya dari Kelas 12 sudah berhasil menginstall React
       </p>
@@ -12,4 +12,4 @@ function TugasPertama(props) {
   );
 }
 
-export default TugasPertama;
+export default Tugas6;
