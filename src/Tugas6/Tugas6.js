@@ -2,7 +2,7 @@ import React from "react";
 
 function Tugas6(props) {
   return (
-    <div className="box">
+    <div className="box np">
       <h1 className="title">Hi, Saya {props.name}</h1>
       <hr />
       <p className="paragraph">

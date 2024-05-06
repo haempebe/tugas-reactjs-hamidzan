@@ -2,7 +2,7 @@ import React from "react";
 
 function Tugas7(props) {
   return (
-    <div className="box">
+    <div className="box np">
       <h1 className="title">Data diri peserta kelas ReactJs</h1>
       <hr />
       <ul className="paragraph">
